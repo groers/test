@@ -4,3 +4,5 @@
 
 `git clone` from github
 
+tag of alice
+
