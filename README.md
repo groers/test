@@ -1,13 +1,4 @@
-# Test
+# official readme
 
-这是一个git测试
+成了！
 
-`git clone` from github
-
-tag bob
-
-tag of alice
-
-tag amy
-
-tag jack
